@@ -1,0 +1,6 @@
+#!/bin/sh
+
+if [[ ls -c $1 > 5 ]]
+then 
+	#Chopper le fichier le plus vieux
+
